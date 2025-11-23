@@ -1,0 +1,7 @@
+{
+  "name": "SnapSolve AI",
+  "description": "Scan question papers and get instant, detailed answers using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
